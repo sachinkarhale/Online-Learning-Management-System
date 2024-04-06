@@ -1,5 +1,5 @@
 # learning-management-system
-Free Download Source Code "Online Learning Management System"
+Free Download Source Code "Learning Management System"
 
 FIRST Download
 
@@ -31,6 +31,3 @@ for user create or student
 Admin
 user: admin@example.com
 pass: admin
-
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
